@@ -1,0 +1,48 @@
+.titleh1{
+    color: red;
+}
+.hrclass{
+    border: 1px solid black
+}
+.sub-heading-h5{
+    color: rgb(8, 197, 8);
+    font-style: italic;
+    margin-top: 20px;
+}
+.text-dec{
+    text-decoration: line-through;
+}
+.font-styling{
+    font-style: italic;
+    text-decoration-line: underline;
+}
+.titleh1{
+    color: red;
+    
+}
+.css-ways {
+    letter-spacing: 5px;
+    color: brown;
+  }
+
+  .css-ways span {
+    background-color: yellow;
+    font-weight: bold;
+  }
+  .p1 {
+    color: brown;
+    font-size: large;
+  }
+  .p2 {
+    color: brown;
+    font-size: xx-small;
+  }
+  .p3 {
+    color: brown;
+    font-style: italic;
+  }
+  .a-tag{
+    color: brown;
+    text-decoration: none;
+    background-color: yellow;
+  }
